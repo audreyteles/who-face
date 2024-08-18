@@ -1,0 +1,13 @@
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+deepface = "^0.0.93"
+opencv-python = "^4.10.0.84"
+tf-keras = "^2.17.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
