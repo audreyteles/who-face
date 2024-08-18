@@ -1,6 +1,6 @@
 ## How it works
 
-Clone the repository: </br>
+Clone repository: </br>
 ```bash
 
 ```
@@ -20,7 +20,7 @@ Install libs: <br>
 Start application: <br>
 
 ```bash
-python main.p
+python main.py
 ```
 
 ### Commands
