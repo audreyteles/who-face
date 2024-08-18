@@ -17,9 +17,11 @@ jobs:
     - name: Install dependencies
       run: |
         curl -sSL https://install.python-poetry.org | python3
+        poetry init
         poetry shell
-        poetry install
         poetry add pylint
+        poetry install
+
     - name: Analysing the code with pylint
       run: |
         pylint $(git ls-files '*.py')
