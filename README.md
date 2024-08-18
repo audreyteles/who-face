@@ -1,3 +1,11 @@
+## Dependencies
+
+poetry >= 1.8.3
+
+```bash
+curl -sSL https://install.python-poetry.org | python3
+```
+
 ## How it works
 
 Clone repository: </br>
