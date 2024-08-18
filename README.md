@@ -2,7 +2,7 @@
 
 Clone repository: </br>
 ```bash
-git@github.com:audreyteles/who-face.git
+https://github.com/audreyteles/who-face.git
 ```
 
 Activate environment: <br>
